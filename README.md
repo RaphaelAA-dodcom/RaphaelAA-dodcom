@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RaphaelAA-dodcom
-- 👀 I’m interested in special-operational strantegies and logistics around the world..
+- 👀 I’m interested in special-operational strategies & real-time logistics around the world..
 - 🌱 I’m currently learning universal quantum code
 - 💞️ I’m looking to collaborate on security defenses for .com
 - 📫 How to reach me curativeintel@gmail.com
